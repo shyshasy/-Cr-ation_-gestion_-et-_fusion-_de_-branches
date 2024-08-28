@@ -1,2 +1,6 @@
 Contenu initial de feature1
+<<<<<<< HEAD
 Modification sur feature1
+=======
+Modification sur feature2
+>>>>>>> feature2
